@@ -10,5 +10,5 @@
 ## Built With
 * Javascript(ES6)
 
-## Authors
+## Author
 * **Vishal Sripathi** - [vishalsripathi](https://github.com/vishalsripathi)
